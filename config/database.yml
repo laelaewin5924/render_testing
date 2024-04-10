@@ -4,7 +4,7 @@ default: &default
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   host: db
   username: postgres
-  password: 123456
+  password: 592400
   # username: root
   # password: password
   # host: cmmteam4_backend-mysql-1
